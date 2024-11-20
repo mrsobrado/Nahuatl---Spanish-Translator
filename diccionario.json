@@ -1,0 +1,53 @@
+{
+    "palabras": [
+      {
+        "espanol": "agua",
+        "nahuatl": "atl",
+        "pronunciacion": "ah-tl",
+        "ejemplo": "El agua es vida. -> Atl es tlakatl."
+      },
+      {
+        "espanol": "amigo",
+        "nahuatl": "tlakatl",
+        "pronunciacion": "tla-katl",
+        "ejemplo": "Mi amigo es sabio. -> Mi tlakatl iskal."
+      },
+      {
+        "espanol": "animal",
+        "nahuatl": "cuetlaxochitl",
+        "pronunciacion": "kwetl-ah-shoch-til",
+        "ejemplo": "El animal corre rápido. -> Cuetlaxochitl tlen tlachpan."
+      },
+      {
+        "espanol": "agua dulce",
+        "nahuatl": "atl tlachpan",
+        "pronunciacion": "ahtl tlah-ch-pan",
+        "ejemplo": "El agua dulce es refrescante. -> Atl tlachpan se yohualli."
+      },
+      {
+        "espanol": "alimento",
+        "nahuatl": "tlakatl",
+        "pronunciacion": "tla-katl",
+        "ejemplo": "El alimento es necesario para vivir. -> Tlakatl se tlen tichpohuaz."
+      },
+      {
+        "espanol": "alrededor",
+        "nahuatl": "quiahuitl",
+        "pronunciacion": "kee-ah-weetl",
+        "ejemplo": "Alrededor de la montaña hay árboles. -> Quiahuitl tlen tepētl mixtli."
+      },
+      {
+        "espanol": "alma",
+        "nahuatl": "tonali",
+        "pronunciacion": "toh-nah-lee",
+        "ejemplo": "El alma es inmortal. -> Tonali se tlakatl."
+      },
+      {
+        "espanol": "aire",
+        "nahuatl": "ehecatl",
+        "pronunciacion": "eh-heh-kah-tl",
+        "ejemplo": "El aire es fresco. -> Ehecatl se yohualli."
+      }
+    ]
+  }
+  
